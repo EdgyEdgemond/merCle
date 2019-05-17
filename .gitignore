@@ -1,0 +1,25 @@
+_merkle.c
+_merkle.cpython-37m-x86_64-linux-gnu.so
+_merkle.o
+libmerkle.so
+merkle
+merkle.o
+
+# Distribution / packaging
+/.Python
+/env/
+/build/
+/develop-eggs/
+/dist/
+/downloads/
+/eggs/
+/.eggs/
+/lib/
+/lib64/
+/parts/
+/sdist/
+/var/
+/wheels/
+/*.egg-info/
+/.installed.cfg
+/*.egg
